@@ -1,0 +1,7 @@
+streamlit
+matplotlib
+pillow
+yfinance
+pandas
+plotly
+matplotlib_fontja
